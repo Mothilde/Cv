@@ -1,0 +1,5 @@
+#photo {
+	border-radius: 50%;
+	border: 2px solid black;
+	box-shadow: 1px grey;
+}
